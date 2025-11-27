@@ -1,0 +1,57 @@
+2025-10-06 23:24:59.635 -07:00 [INF] ----------------- Logging Initialized -----------------
+2025-10-06 23:24:59.653 -07:00 [INF] Global exception handlers registered.
+2025-10-06 23:24:59.660 -07:00 [INF] Application startup sequence complete.
+2025-10-06 23:24:59.988 -07:00 [INF] No command line arguments provided. Window will be shown by default.
+2025-10-06 23:25:00.300 -07:00 [INF] 从本地数据初始化失败,尝试从在线数据初始化. 超时时间:40000
+2025-10-06 23:25:02.123 -07:00 [INF] 下载壁纸资源 720p 开始 Charming Jinx (2) f487f948-449a-4cdc-9dee-3ba5590e1578
+2025-10-06 23:25:02.226 -07:00 [INF] TryLoadWallpaperToPlayerAsync 开始 调用源: OnWallpaperChanged
+2025-10-06 23:25:02.226 -07:00 [INF] TryLoadWallpaperToPlayerAsync 失败 没有任何壁纸,无法开启轮播.
+2025-10-06 23:25:02.437 -07:00 [INF] 下载壁纸资源 720p 完成 Charming Jinx (2) f487f948-449a-4cdc-9dee-3ba5590e1578
+2025-10-06 23:25:02.437 -07:00 [INF] 下载壁纸资源 720p 开始 Summer Bliss 85b0b8e9-f78b-460b-94da-f07b796d1f0b
+2025-10-06 23:25:02.521 -07:00 [INF] 下载壁纸资源 720p 完成 Summer Bliss 85b0b8e9-f78b-460b-94da-f07b796d1f0b
+2025-10-06 23:25:02.521 -07:00 [INF] 下载壁纸资源 720p 开始 Cyberpunk Neon Room - Scene Dynamics 10df7c82-d178-483f-b974-293d3ec00d9b
+2025-10-06 23:25:02.645 -07:00 [INF] 下载壁纸资源 720p 完成 Cyberpunk Neon Room - Scene Dynamics 10df7c82-d178-483f-b974-293d3ec00d9b
+2025-10-06 23:25:02.645 -07:00 [INF] 下载壁纸资源 720p 开始 Water Princess 59725c90-958c-4f6e-8664-420da1469ecc
+2025-10-06 23:25:02.975 -07:00 [INF] 下载壁纸资源 720p 完成 Water Princess 59725c90-958c-4f6e-8664-420da1469ecc
+2025-10-06 23:25:02.976 -07:00 [INF] 下载壁纸资源 720p 开始 Under The Cherry Blossom Tree 33ae8498-ccb6-4eb5-9c38-b06f1bad3a0b
+2025-10-06 23:25:03.061 -07:00 [INF] 下载壁纸资源 720p 完成 Under The Cherry Blossom Tree 33ae8498-ccb6-4eb5-9c38-b06f1bad3a0b
+2025-10-06 23:25:03.065 -07:00 [INF] SwitchVideoToSelectedIndexAsync(切换视频) 开始
+2025-10-06 23:25:03.065 -07:00 [INF] SwitchVideoToSelectedIndexAsync 发现 IsVideoElementLoaded=false 启动 LoadVideoControlAsync
+2025-10-06 23:25:03.066 -07:00 [INF] LoadVideoControlAsync 开始
+2025-10-06 23:25:03.066 -07:00 [INF] LoadVideoControlAsync 加载 mediaElement
+2025-10-06 23:25:03.066 -07:00 [INF] LoadVideoControlAsync 加载 mediaElement 成功
+2025-10-06 23:25:03.066 -07:00 [INF] LoadVideoControlAsync IsVideoElementLoaded -> true
+2025-10-06 23:25:03.066 -07:00 [INF] TryLoadWallpaperToPlayerAsync 开始 调用源: LoadVideoControlAsync
+2025-10-06 23:25:03.066 -07:00 [INF] TryLoadWallpaperToPlayerAsync 使用 _mediaElement 播放视频  C:\Users\Nakul Chugh\Documents\NetPower\NetPower.Windows.Wallpapers\CacheData\Data\Dynamic\f487f948-449a-4cdc-9dee-3ba5590e1578_720P.mp4
+2025-10-06 23:25:03.067 -07:00 [INF] TryLoadWallpaperToPlayerAsync 完成.
+2025-10-06 23:25:03.067 -07:00 [INF] SwitchVideoToSelectedIndexAsync isWallpaperSwiping ->true
+2025-10-06 23:25:03.067 -07:00 [INF] SwitchVideoToSelectedIndexAsync 使用 _mediaElement 切换视频
+2025-10-06 23:25:03.459 -07:00 [INF] SwitchVideoToSelectedIndexAsync 新媒体已准备好，开始动画
+2025-10-06 23:25:03.972 -07:00 [INF] SwitchVideoToSelectedIndexAsync 完成 isWallpaperSwiping->false
+2025-10-06 23:25:06.234 -07:00 [INF] SwitchVideoToSelectedIndexAsync(切换视频) 开始
+2025-10-06 23:25:06.234 -07:00 [INF] SwitchVideoToSelectedIndexAsync isWallpaperSwiping ->true
+2025-10-06 23:25:06.242 -07:00 [INF] SwitchVideoToSelectedIndexAsync 使用 _mediaElement 切换视频
+2025-10-06 23:25:06.833 -07:00 [INF] SwitchVideoToSelectedIndexAsync 新媒体已准备好，开始动画
+2025-10-06 23:25:07.364 -07:00 [INF] SwitchVideoToSelectedIndexAsync 完成 isWallpaperSwiping->false
+2025-10-06 23:25:10.233 -07:00 [INF] SwitchVideoToSelectedIndexAsync(切换视频) 开始
+2025-10-06 23:25:10.233 -07:00 [INF] SwitchVideoToSelectedIndexAsync isWallpaperSwiping ->true
+2025-10-06 23:25:10.244 -07:00 [INF] SwitchVideoToSelectedIndexAsync 使用 _mediaElement 切换视频
+2025-10-06 23:25:10.983 -07:00 [INF] SwitchVideoToSelectedIndexAsync 新媒体已准备好，开始动画
+2025-10-06 23:25:11.488 -07:00 [INF] SwitchVideoToSelectedIndexAsync 完成 isWallpaperSwiping->false
+2025-10-06 23:25:18.275 -07:00 [INF] SwitchVideoToSelectedIndexAsync(切换视频) 开始
+2025-10-06 23:25:18.275 -07:00 [INF] SwitchVideoToSelectedIndexAsync isWallpaperSwiping ->true
+2025-10-06 23:25:18.283 -07:00 [INF] SwitchVideoToSelectedIndexAsync 使用 _mediaElement 切换视频
+2025-10-06 23:25:19.007 -07:00 [INF] SwitchVideoToSelectedIndexAsync 新媒体已准备好，开始动画
+2025-10-06 23:25:19.526 -07:00 [INF] SwitchVideoToSelectedIndexAsync 完成 isWallpaperSwiping->false
+2025-10-06 23:25:22.279 -07:00 [INF] SwitchVideoToSelectedIndexAsync(切换视频) 开始
+2025-10-06 23:25:22.279 -07:00 [INF] SwitchVideoToSelectedIndexAsync isWallpaperSwiping ->true
+2025-10-06 23:25:22.285 -07:00 [INF] SwitchVideoToSelectedIndexAsync 使用 _mediaElement 切换视频
+2025-10-06 23:25:27.296 -07:00 [WRN] MediaElement 加载 C:\Users\Nakul Chugh\Documents\NetPower\NetPower.Windows.Wallpapers\CacheData\Data\Dynamic\33ae8498-ccb6-4eb5-9c38-b06f1bad3a0b_720P.mp4 超时。
+2025-10-06 23:25:27.298 -07:00 [WRN] SwitchVideoToSelectedIndexAsync 新媒体加载失败/超时，直接切换
+2025-10-06 23:25:27.298 -07:00 [INF] SwitchVideoToSelectedIndexAsync 完成 isWallpaperSwiping->false
+2025-10-06 23:25:44.615 -07:00 [INF] SwitchVideoToSelectedIndexAsync(切换视频) 开始
+2025-10-06 23:25:44.615 -07:00 [INF] SwitchVideoToSelectedIndexAsync isWallpaperSwiping ->true
+2025-10-06 23:25:44.622 -07:00 [INF] SwitchVideoToSelectedIndexAsync 使用 _mediaElement 切换视频
+2025-10-06 23:25:44.733 -07:00 [INF] SwitchVideoToSelectedIndexAsync 新媒体已准备好，开始动画
+2025-10-06 23:25:45.223 -07:00 [INF] SwitchVideoToSelectedIndexAsync 完成 isWallpaperSwiping->false
+2025-10-06 23:26:22.244 -07:00 [INF] Application exiting...

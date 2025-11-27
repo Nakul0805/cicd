@@ -1,0 +1,426 @@
+10:07:47:255 (00024448) > [Startup] Ghost of Tsushima DIRECTOR'S CUT
+10:07:47:255 (00024448) > [Startup] ==============
+10:07:47:255 (00024448) > [Startup] 
+10:07:47:255 (00024448) > [Startup] Build: v1053.0.0515.2048
+10:07:47:255 (00024448) > [Startup] Windows 11.0 (build 26200.6901)
+10:07:47:255 (00024448) > [Startup] Distribution platform: Steam
+10:07:47:255 (00024448) > [Startup] Game directory: C:\Users\<username>\Documents\Ghost of Tsushima DIRECTOR'S CUT\
+10:07:47:255 (00024448) > [Startup] Working directory: G:\Games\Ghost of Tsushima DC
+10:07:47:255 (00024448) > [Startup] Run ID: 7210-E2F5-A68F-0824
+10:07:47:255 (00024448) > [Startup] 
+10:07:47:255 (00024448) > [Startup] Memory statistics:
+10:07:47:255 (00024448) > [Startup]   Total RAM = 31.4 GB (32113 MB)
+10:07:47:255 (00024448) > [Startup]   Avail RAM = 21.1 GB (21585 MB)
+10:07:47:255 (00024448) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+10:07:47:255 (00024448) > [Startup]   Avail virtual memory = 131066.7 GB (134212327 MB)
+10:07:47:255 (00024448) > [Startup]   Total page file = 33.4 GB (34161 MB)
+10:07:47:255 (00024448) > [Startup]   Avail page file = 22.3 GB (22810 MB)
+10:07:47:255 (00024448) > [Startup] 
+10:07:47:255 (00024448) > [Steam] Initializing.
+10:07:47:255 (00024448) > [Steam] Successfully initialized.
+10:07:47:255 (00024448) > [Steam] Currently connected to 0 remote sessions
+10:07:47:255 (00024448) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
+10:07:47:423 (00024448) > [NxApp] PreInit
+10:07:47:424 (00024448) > [SwapChain] Initializing...
+10:07:47:424 (00024448) > [DXGI] Initializing...
+10:07:48:532 (00024448) > [NxApp] Streamline was successfully initialized.
+10:07:48:532 (00024448) > [DXGI] Successfully initialized.
+10:07:48:532 (00024448) > [Render] Enumerating adapters:
+10:07:48:532 (00024448) > [Render] 	Adapter 0:
+10:07:48:532 (00024448) > [Monitor] 		Description             : NVIDIA GeForce RTX 5070 Ti Laptop GPU
+10:07:48:532 (00024448) > [Monitor] 		Vendor                  : nVidia (10de)
+10:07:48:532 (00024448) > [Monitor] 		Device                  : 2f58
+10:07:48:532 (00024448) > [Monitor] 		Sub system              : 3e081043
+10:07:48:532 (00024448) > [Monitor] 		Revision                : 161
+10:07:48:532 (00024448) > [Monitor] 		Dedicated Video Memory  : 11856 MB
+10:07:48:532 (00024448) > [Monitor] 		Dedicated System Memory : 0000 MB
+10:07:48:532 (00024448) > [Monitor] 		Shared System Memory    : 18304 MB
+10:07:48:532 (00024448) > [Monitor] 
+10:07:48:532 (00024448) > [Render] Loading NVAPI...
+10:07:48:534 (00024448) > [Render] Done loading NVAPI
+10:07:48:534 (00024448) > [Render] 	Adapter 1:
+10:07:48:534 (00024448) > [Monitor] 		Description             : Intel(R) Graphics
+10:07:48:534 (00024448) > [Monitor] 		Vendor                  : Intel (8086)
+10:07:48:534 (00024448) > [Monitor] 		Device                  : 7d67
+10:07:48:534 (00024448) > [Monitor] 		Sub system              : 3e081043
+10:07:48:534 (00024448) > [Monitor] 		Revision                : 6
+10:07:48:534 (00024448) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+10:07:48:534 (00024448) > [Monitor] 		Dedicated System Memory : 0000 MB
+10:07:48:534 (00024448) > [Monitor] 		Shared System Memory    : 18304 MB
+10:07:48:534 (00024448) > [Monitor] 
+10:07:48:534 (00024448) > [Render] 	Adapter 2:
+10:07:48:534 (00024448) > [Monitor] 		Description             : Microsoft Basic Render Driver
+10:07:48:534 (00024448) > [Monitor] 		Vendor                  : Unknown (1414)
+10:07:48:534 (00024448) > [Monitor] 		Device                  : 8c
+10:07:48:534 (00024448) > [Monitor] 		Sub system              : 0
+10:07:48:534 (00024448) > [Monitor] 		Revision                : 0
+10:07:48:534 (00024448) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+10:07:48:534 (00024448) > [Monitor] 		Dedicated System Memory : 0000 MB
+10:07:48:534 (00024448) > [Monitor] 		Shared System Memory    : 18304 MB
+10:07:48:534 (00024448) > [Monitor] 
+10:07:48:534 (00024448) > [Render] Enumerating monitors:
+10:07:48:534 (00024448) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.60, rounded aspect = 1.60
+10:07:48:534 (00024448) > [Render] 
+10:07:48:534 (00024448) > [Render] Failed to get the nvidia display handle
+10:07:48:534 (00024448) > [Render] Failed to get the nvidia display output ID
+10:07:48:534 (00024448) > [Render] Failed to get the nvidia physical GPU's from the display
+10:07:48:534 (00024448) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+10:07:48:535 (00024448) > [SwapChain] Successfully initialized.
+10:07:48:535 (00024448) > [Render] Enumerating Display Modes:
+10:07:48:535 (00024448) > [Render] Querying NVAPI for Surround modes
+10:07:48:535 (00024448) > [Render] NvAPI_DISP_GetGDIPrimaryDisplayId returned NVAPI_NVIDIA_DEVICE_NOT_FOUND (fffffffa)
+
+10:07:48:535 (00024448) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 5070 Ti Laptop GPU(1))' (0000000000010001): rect(0 2560 0 1600)
+10:07:48:535 (00024448) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode  1 :  800 x  600 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode  2 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode  3 : 1024 x  768 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode  4 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode  5 : 1152 x  864 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode  6 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode  7 : 1280 x  600 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode  8 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode  9 : 1280 x  720 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 10 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 11 : 1280 x  768 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 12 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 13 : 1280 x  800 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 14 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 15 : 1280 x  960 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 16 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 17 : 1280 x 1024 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 18 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 19 : 1360 x  768 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 20 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 21 : 1366 x  768 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 22 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 23 : 1400 x 1050 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 24 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 25 : 1440 x  900 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 26 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 27 : 1600 x  900 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 28 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 29 : 1600 x 1200 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 30 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 31 : 1680 x 1050 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 32 : 1792 x 1344 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 33 : 1792 x 1344 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 34 : 1856 x 1392 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 35 : 1856 x 1392 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 36 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 37 : 1920 x 1080 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 38 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 39 : 1920 x 1200 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 40 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 41 : 1920 x 1440 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 42 : 2048 x 1152 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 43 : 2048 x 1152 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 44 : 2048 x 1536 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 45 : 2048 x 1536 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 46 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 47 : 2560 x 1440 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 48 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] 		- Mode 49 : 2560 x 1600 @ 240 Hz, stereo = 0, hdr = 0 exclusive = 0
+10:07:48:535 (00024448) > [Render] ***** Additional Monitor Output Info *****
+10:07:48:535 (00024448) > [Render] 		BitsPerColor: 8
+10:07:48:535 (00024448) > [Render] 		Primaries: R=0.6797;0.3203  G=0.2646;0.6904  B=0.1504;0.0596  White-Point=0.3135;0.3291
+10:07:48:535 (00024448) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+10:07:48:535 (00024448) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+10:07:48:535 (00024448) > [Render] ******************************************
+10:07:48:535 (00024448) > [Render] 
+10:07:49:361 (00024448) > [NxReflex] Reflex support result:Result::eOk
+10:07:49:361 (00024448) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
+10:07:49:361 (00024448) > [NxReflex] DLSSG support result:Result::eOk
+10:07:49:361 (00024448) > [NxApp] Querying GPU Driver Info...
+10:07:49:361 (00024448) > [NxApp] Enumerating available display adapters:
+10:07:49:367 (00024448) > [NxApp] 		NVIDIA GeForce RTX 5070 Ti Laptop GPU (active)
+10:07:49:367 (00024448) > [NxApp] 		Intel(R) Graphics
+10:07:49:367 (00024448) > [NxApp] Successfully found GPU Driver Info
+10:07:49:367 (00024448) > [D3D] Max supported feature level: 11.0
+10:07:49:367 (00024448) > [Render] Disabled D3D12 experimentals
+10:07:49:529 (00024448) > [Render] VMEM Budget: 11088 MB
+10:07:49:529 (00024448) > [Render] VMEM Available: 11081 MB
+10:07:50:449 (00024448) > [Render] GPU node count: 1
+10:07:50:492 (00024448) > [NxApp] PreInit successful.
+10:07:50:496 (00024448) > [NxUpscaler] SL DLSS support: Result::eOk
+10:07:50:543 (00024448) > [NxUpscaler] XeSS init, code = 0
+10:07:50:543 (00024448) > [Validate Settings] Changed upscale quality.
+10:07:50:546 (00024448) > [Input] Keyboard language: "English (United States)" (id: 1033)
+10:07:50:546 (00024448) > [Input] Keyboard physical layout: "India" (id: 00004009)
+10:07:50:546 (00024448) > [Input] Joystick            ""   product 6582 vendor 2821 version 534 usage 12 usagePage 1 xinput no
+10:07:50:546 (00024448) > [Input] Joystick            ""   product 6582 vendor 2821 version 534 usage 1 usagePage 12 xinput no
+10:07:50:546 (00024448) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 537 vendor 10248 version 1281 usage 1 usagePage 65280
+10:07:50:546 (00024448) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 537 vendor 10248 version 1281 usage 199 usagePage 65280
+10:07:50:546 (00024448) > [Input] Joystick            ""   product 6582 vendor 2821 version 534 usage 121 usagePage 65329 xinput no
+10:07:50:546 (00024448) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+10:07:50:546 (00024448) > [Input] Human Input Device  "ASUS Precision Touchpad"   product 537 vendor 10248 version 1281 usage 5 usagePage 13
+10:07:50:546 (00024448) > [Input] Joystick            ""   product 6582 vendor 2821 version 534 usage 118 usagePage 65329 xinput no
+10:07:50:546 (00024448) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+10:07:50:546 (00024448) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 488
+10:07:50:546 (00024448) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 2 sampleRate 0 horizontalWheel no
+10:07:50:551 (00024448) > [Input] Using LibScePad
+10:07:50:551 (00024448) > [XInput] Enumerating available xusb hid devices:
+
+10:07:53:417 (00024448) > [NxReflex] Reflex support result:Result::eOk
+10:07:53:420 (00024448) > [NxReflex] Reflex GetState result:Result::eOk
+10:07:53:421 (00024448) > [NxReflex] DLSSG support result:Result::eOk
+10:07:53:421 (00024448) > [NxApp] Driver Desc: NVIDIA GeForce RTX 5070 Ti Laptop GPU
+10:07:53:421 (00024448) > [NxApp] Driver Version: 581.57
+10:07:53:421 (00024448) > [**************************************************Display + Graphics Settings**************************************************] 
+10:07:53:421 (00024448) > [Settings] DirectX Version: 12
+10:07:53:421 (00024448) > [Settings] Window mode: Fullscreen
+10:07:53:421 (00024448) > [Settings] Fullscreen display mode:
+10:07:53:421 (00024448) > [Settings] 	Displaying on monitor: 0
+10:07:53:421 (00024448) > [Settings] 	Resolution: 2560x1600
+10:07:53:421 (00024448) > [Settings] 	HDR: Off
+10:07:53:421 (00024448) > [Settings] 	OS reported Refresh rate: 240
+10:07:53:421 (00024448) > [Settings] 	VSync: On
+10:07:53:421 (00024448) > [Settings] 	Reflex: Low Latency
+10:07:53:421 (00024448) > [Settings] 	Frame generation: None
+10:07:53:421 (00024448) > [Settings] 	Resolution modifier 1.000000
+10:07:53:421 (00024448) > [Settings] 	Dynamic resolution FPS target: 60
+10:07:53:421 (00024448) > [Settings] Anti aliasing: DLAA
+
+10:07:53:421 (00024448) > [Settings] Upscale method: DLSS
+
+10:07:53:421 (00024448) > [Settings] Upscale quality: Quality
+
+10:07:53:421 (00024448) > [Settings] Upscale sharpen value: 0.500000
+
+10:07:53:421 (00024448) > [Settings] Graphics Options:
+10:07:53:421 (00024448) > [Settings] 	Texture Quality: Ultra
+10:07:53:421 (00024448) > [Settings] 	Texture Filtering: Anisotropic8x
+10:07:53:421 (00024448) > [Settings] 	Shadow Quality: VeryHigh
+10:07:53:421 (00024448) > [Settings] 	Depth of Field: VeryHigh
+10:07:53:421 (00024448) > [Settings] 	Level of Detail: VeryHigh
+10:07:53:421 (00024448) > [Settings] 	Terrain Detail: High
+10:07:53:421 (00024448) > [Settings] 	Hair Quality: 
+10:07:53:421 (00024448) > [Settings] 	Ambient Occlusion: SSAO Quality
+10:07:53:421 (00024448) > [Settings] 	Screen Space Reflections: Full Res
+10:07:53:421 (00024448) > [Settings] 	Particle Lighting: Very High
+
+10:07:53:421 (00024448) > [Settings] 	Bloom: On
+10:07:53:421 (00024448) > [Settings] 	Vignette: On
+10:07:53:421 (00024448) > [Settings] 	Caustics: On
+10:07:53:421 (00024448) > [Settings] 	Motion Blur: 1.000000
+10:07:53:421 (00024448) > [Settings] 	FOV Correction: 1.050000
+10:07:53:421 (00024448) > [Settings] 	Film Grain Strength: 1.000000
+10:07:53:421 (00024448) > [Settings] 	Sharpness: 1.000000
+10:07:53:421 (00024448) > [Settings] 	Lens Flares: On
+10:07:53:421 (00024448) > [Settings] 	Screen Effects: On
+10:07:53:421 (00024448) > [**************************************************Display + Graphics Settings**************************************************] 
+10:07:53:446 (00024448) > [NxApp] Creating window...
+10:07:53:447 (00008844) > [GameWindow] UpdateState bVisible true
+10:07:53:454 (00024448) > [NxApp] Window created.
+10:07:53:454 (00024448) > [NxApp] Initializing swapchain...
+10:07:53:454 (00024260) > [SwapChain] Creating...
+10:07:53:454 (00024260) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1600
+10:07:53:454 (00024260) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1600 | min = 1280x800 | max =  2560x1600
+10:07:53:514 (00024260) > [DXGI] Created swapchain.
+10:07:53:521 (00024260) > [SwapChain] Gamma correction is enabled.
+10:07:53:521 (00024260) > [SwapChain] Successfully created.
+10:07:53:521 (00024260) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 2560x1600
+10:07:53:522 (00024260) > [Upscaler] ConvertScreenToRenderRes: wxh = 2560x1600 | min = 1280x800 | max =  2560x1600
+10:07:53:522 (00024448) > [NxApp] Swapchain initialized
+10:07:53:522 (00024448) > [NxApp] Initializing renderer...
+10:07:53:522 (00024448) > [NxApp] Renderer initialized
+10:07:53:522 (00024448) > [NxStorage] Detected device at 'g:\games\ghost of tsushima dc', name 'MTFDKBA1T0QGN-1BN1AABGA', SSD: Yes, NVMe: Yes
+10:07:54:477 (00024448) > [NxStorage] DirectStorage initialization succeeded
+10:07:54:477 (00024448) > [CJobManager] Creating  10 worker threads, run on  11 cores
+
+10:07:54:547 (00024448) > [Render] Pipeline cache C:\Users\<username>\AppData\Roaming\Sucker Punch Productions\Ghost of Tsushima DIRECTOR'S CUT\\user.pso read succesfully, read 34 pipelines, found 0 duplicates.
+10:07:54:556 (00024448) > [Render] Pipeline cache default.pso read succesfully, read 16192 pipelines, found 0 duplicates.
+10:07:54:565 (00024448) > [SCE] SDK is not detected
+10:07:54:958 (00024448) > [Steam] Stats received: 2
+10:08:10:149 (00024448) > [Input] Windows.Gaming.Input controller connected. index: 0
+10:08:10:150 (00024448) > [Input] XInput controller connected. index: 0
+10:08:10:150 (00024448) > [Input] Gamepads connected: 0 -> 2
+10:08:10:150 (00024448) > [Input] Gamepad for main player: 0
+10:08:10:153 (00024448) > [Input] XInput disabled, disconnecting controller. index: 0
+10:08:10:153 (00024448) > [Input] Gamepads connected: 2 -> 1
+10:08:10:153 (00024448) > [Input] Gamepad for main player: 0
+10:08:47:248 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:08:47:250 (00005652) > [Render] Failed to get GPU thermal info
+10:08:47:250 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:08:47:250 (00005652) > [Render] Working set: 5204MB Page file: 9531MB Video Budget: 11088MB Video Usage: 3756MB Sys Budget: 17536MB Sys Usage: 367MB ó¿H: Demoted: 0MB fps: 145.716675
+10:09:47:244 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:09:47:247 (00005652) > [Render] Failed to get GPU thermal info
+10:09:47:247 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:09:47:247 (00005652) > [Render] Working set: 5777MB Page file: 11068MB Video Budget: 11088MB Video Usage: 4574MB Sys Budget: 17536MB Sys Usage: 373MB Demoted: 0MB fps: 145.716675 Demoted: 0MB fps: 101.716675
+10:10:47:254 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:10:47:256 (00005652) > [Render] Failed to get GPU thermal info
+10:10:47:256 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:10:47:256 (00005652) > [Render] Working set: 5868MB Page file: 11887MB Video Budget: 11088MB Video Usage: 5214MB Sys Budget: 17536MB Sys Usage: 382MB Demoted: 0MB fps: 101.716675 Demoted: 0MB fps: 112.133339
+10:11:47:242 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:11:47:244 (00005652) > [Render] Failed to get GPU thermal info
+10:11:47:244 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:11:47:244 (00005652) > [Render] Working set: 6036MB Page file: 13418MB Video Budget: 11088MB Video Usage: 6338MB Sys Budget: 17536MB Sys Usage: 455MB Demoted: 0MB fps: 112.133339 Demoted: 0MB fps: 77.166672
+10:12:47:246 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:12:47:248 (00005652) > [Render] Failed to get GPU thermal info
+10:12:47:248 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:12:47:248 (00005652) > [Render] Working set: 6044MB Page file: 13568MB Video Budget: 11088MB Video Usage: 6455MB Sys Budget: 17536MB Sys Usage: 455MB Demoted: 0MB fps: 77.166672 Demoted: 0MB fps: 97.566673
+10:13:47:250 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:13:47:252 (00005652) > [Render] Failed to get GPU thermal info
+10:13:47:252 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:13:47:252 (00005652) > [Render] Working set: 6075MB Page file: 13811MB Video Budget: 11088MB Video Usage: 6629MB Sys Budget: 17536MB Sys Usage: 458MB Demoted: 0MB fps: 97.566673 Demoted: 0MB fps: 80.116669
+10:14:47:253 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:14:47:254 (00005652) > [Render] Failed to get GPU thermal info
+10:14:47:255 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:14:47:255 (00005652) > [Render] Working set: 6122MB Page file: 14434MB Video Budget: 11088MB Video Usage: 7198MB Sys Budget: 17536MB Sys Usage: 400MB Demoted: 0MB fps: 80.116669 Demoted: 0MB fps: 70.500000
+10:15:47:248 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:15:47:249 (00005652) > [Render] Failed to get GPU thermal info
+10:15:47:249 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:15:47:249 (00005652) > [Render] Working set: 6084MB Page file: 15612MB Video Budget: 11088MB Video Usage: 8120MB Sys Budget: 17536MB Sys Usage: 400MB Demoted: 0MB fps: 70.500000 Demoted: 0MB fps: 71.183334
+10:16:47:248 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:16:47:250 (00005652) > [Render] Failed to get GPU thermal info
+10:16:47:250 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:16:47:250 (00005652) > [Render] Working set: 6143MB Page file: 15672MB Video Budget: 11088MB Video Usage: 8156MB Sys Budget: 17536MB Sys Usage: 400MB Demoted: 0MB fps: 71.183334 Demoted: 0MB fps: 70.266670
+10:17:47:242 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:17:47:244 (00005652) > [Render] Failed to get GPU thermal info
+10:17:47:244 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:17:47:244 (00005652) > [Render] Working set: 6282MB Page file: 16630MB Video Budget: 11088MB Video Usage: 8901MB Sys Budget: 17536MB Sys Usage: 405MB Demoted: 0MB fps: 70.266670 Demoted: 0MB fps: 64.666672
+10:18:47:250 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:18:47:252 (00005652) > [Render] Failed to get GPU thermal info
+10:18:47:252 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:18:47:252 (00005652) > [Render] Working set: 6296MB Page file: 16149MB Video Budget: 11088MB Video Usage: 8556MB Sys Budget: 17536MB Sys Usage: 405MB Demoted: 0MB fps: 64.666672 Demoted: 0MB fps: 68.966667
+10:19:47:243 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:19:47:245 (00005652) > [Render] Failed to get GPU thermal info
+10:19:47:245 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:19:47:245 (00005652) > [Render] Working set: 6322MB Page file: 16112MB Video Budget: 11088MB Video Usage: 8527MB Sys Budget: 17536MB Sys Usage: 407MB Demoted: 0MB fps: 68.966667 Demoted: 0MB fps: 77.450005
+10:20:47:255 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:20:47:257 (00005652) > [Render] Failed to get GPU thermal info
+10:20:47:257 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:20:47:257 (00005652) > [Render] Working set: 6327MB Page file: 16297MB Video Budget: 11088MB Video Usage: 8606MB Sys Budget: 17536MB Sys Usage: 408MB Demoted: 0MB fps: 77.450005 Demoted: 0MB fps: 79.500008
+10:21:47:251 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:21:47:252 (00005652) > [Render] Failed to get GPU thermal info
+10:21:47:252 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:21:47:252 (00005652) > [Render] Working set: 6330MB Page file: 16308MB Video Budget: 11088MB Video Usage: 8619MB Sys Budget: 17536MB Sys Usage: 410MB Demoted: 0MB fps: 79.500008 Demoted: 0MB fps: 64.633339
+10:22:47:247 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:22:47:249 (00005652) > [Render] Failed to get GPU thermal info
+10:22:47:249 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:22:47:249 (00005652) > [Render] Working set: 6336MB Page file: 16216MB Video Budget: 11088MB Video Usage: 8511MB Sys Budget: 17536MB Sys Usage: 411MB Demoted: 0MB fps: 64.633339 Demoted: 0MB fps: 70.866669
+10:23:47:241 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:23:47:243 (00005652) > [Render] Failed to get GPU thermal info
+10:23:47:243 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:23:47:243 (00005652) > [Render] Working set: 6346MB Page file: 16237MB Video Budget: 11088MB Video Usage: 8553MB Sys Budget: 17536MB Sys Usage: 411MB Demoted: 0MB fps: 70.866669 Demoted: 0MB fps: 81.566673
+10:24:47:257 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:24:47:260 (00005652) > [Render] Failed to get GPU thermal info
+10:24:47:260 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:24:47:260 (00005652) > [Render] Working set: 6429MB Page file: 16835MB Video Budget: 11088MB Video Usage: 9033MB Sys Budget: 17536MB Sys Usage: 413MB Demoted: 0MB fps: 81.566673 Demoted: 0MB fps: 79.733337
+10:25:47:261 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:25:47:262 (00005652) > [Render] Failed to get GPU thermal info
+10:25:47:262 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:25:47:262 (00005652) > [Render] Working set: 6443MB Page file: 16540MB Video Budget: 11088MB Video Usage: 8751MB Sys Budget: 17536MB Sys Usage: 414MB Demoted: 0MB fps: 79.733337 Demoted: 0MB fps: 79.766670
+10:26:47:262 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:26:47:265 (00005652) > [Render] Failed to get GPU thermal info
+10:26:47:265 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:26:47:265 (00005652) > [Render] Working set: 6477MB Page file: 16771MB Video Budget: 11088MB Video Usage: 8914MB Sys Budget: 17536MB Sys Usage: 418MB Demoted: 0MB fps: 79.766670 Demoted: 0MB fps: 76.633339
+10:27:47:268 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:27:47:269 (00005652) > [Render] Failed to get GPU thermal info
+10:27:47:269 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:27:47:269 (00005652) > [Render] Working set: 6478MB Page file: 17032MB Video Budget: 11088MB Video Usage: 9094MB Sys Budget: 17536MB Sys Usage: 418MB Demoted: 0MB fps: 76.633339 Demoted: 0MB fps: 71.383339
+10:28:47:266 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:28:47:268 (00005652) > [Render] Failed to get GPU thermal info
+10:28:47:268 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:28:47:268 (00005652) > [Render] Working set: 6501MB Page file: 16680MB Video Budget: 11088MB Video Usage: 8781MB Sys Budget: 17536MB Sys Usage: 419MB Demoted: 0MB fps: 71.383339 Demoted: 0MB fps: 112.266670
+10:29:47:267 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:29:47:268 (00005652) > [Render] Failed to get GPU thermal info
+10:29:47:268 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:29:47:268 (00005652) > [Render] Working set: 6489MB Page file: 16567MB Video Budget: 11088MB Video Usage: 8699MB Sys Budget: 17536MB Sys Usage: 419MB Demoted: 0MB fps: 112.266670 Demoted: 0MB fps: 69.066673
+10:30:47:264 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:30:47:266 (00005652) > [Render] Failed to get GPU thermal info
+10:30:47:266 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:30:47:266 (00005652) > [Render] Working set: 6558MB Page file: 16609MB Video Budget: 11088MB Video Usage: 8684MB Sys Budget: 17536MB Sys Usage: 419MB Demoted: 0MB fps: 69.066673 Demoted: 0MB fps: 97.083336
+10:31:47:270 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:31:47:272 (00005652) > [Render] Failed to get GPU thermal info
+10:31:47:272 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:31:47:272 (00005652) > [Render] Working set: 6482MB Page file: 16533MB Video Budget: 11088MB Video Usage: 8691MB Sys Budget: 17536MB Sys Usage: 419MB Demoted: 0MB fps: 97.083336 Demoted: 0MB fps: 75.183334
+10:32:47:263 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:32:47:265 (00005652) > [Render] Failed to get GPU thermal info
+10:32:47:265 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:32:47:265 (00005652) > [Render] Working set: 6498MB Page file: 16765MB Video Budget: 11088MB Video Usage: 8870MB Sys Budget: 17536MB Sys Usage: 419MB Demoted: 0MB fps: 75.183334 Demoted: 0MB fps: 67.800003
+10:33:47:256 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:33:47:258 (00005652) > [Render] Failed to get GPU thermal info
+10:33:47:258 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:33:47:258 (00005652) > [Render] Working set: 6505MB Page file: 16612MB Video Budget: 11088MB Video Usage: 8729MB Sys Budget: 17536MB Sys Usage: 420MB Demoted: 0MB fps: 67.800003 Demoted: 0MB fps: 68.533340
+10:34:47:263 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:34:47:265 (00005652) > [Render] Failed to get GPU thermal info
+10:34:47:265 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:34:47:265 (00005652) > [Render] Working set: 6520MB Page file: 16805MB Video Budget: 11088MB Video Usage: 8821MB Sys Budget: 17536MB Sys Usage: 421MB Demoted: 0MB fps: 68.533340 Demoted: 0MB fps: 65.516670
+10:35:47:263 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:35:47:265 (00005652) > [Render] Failed to get GPU thermal info
+10:35:47:265 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:35:47:265 (00005652) > [Render] Working set: 6523MB Page file: 16954MB Video Budget: 11088MB Video Usage: 8962MB Sys Budget: 17536MB Sys Usage: 421MB Demoted: 0MB fps: 65.516670 Demoted: 0MB fps: 73.916672
+10:36:47:260 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:36:47:263 (00005652) > [Render] Failed to get GPU thermal info
+10:36:47:263 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:36:47:263 (00005652) > [Render] Working set: 6527MB Page file: 16658MB Video Budget: 11088MB Video Usage: 8771MB Sys Budget: 17536MB Sys Usage: 421MB Demoted: 0MB fps: 73.916672 Demoted: 0MB fps: 77.133339
+10:37:47:260 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:37:47:262 (00005652) > [Render] Failed to get GPU thermal info
+10:37:47:262 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:37:47:262 (00005652) > [Render] Working set: 6527MB Page file: 16835MB Video Budget: 11088MB Video Usage: 8948MB Sys Budget: 17536MB Sys Usage: 421MB Demoted: 0MB fps: 77.133339 Demoted: 0MB fps: 82.016670
+10:38:47:271 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:38:47:273 (00005652) > [Render] Failed to get GPU thermal info
+10:38:47:273 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:38:47:273 (00005652) > [Render] Working set: 3936MB Page file: 16634MB Video Budget: 11088MB Video Usage: 8759MB Sys Budget: 17536MB Sys Usage: 421MB Demoted: 0MB fps: 82.016670 Demoted: 0MB fps: 76.616669
+10:39:47:268 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:39:47:270 (00005652) > [Render] Failed to get GPU thermal info
+10:39:47:270 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:39:47:270 (00005652) > [Render] Working set: 3943MB Page file: 17021MB Video Budget: 11088MB Video Usage: 9076MB Sys Budget: 17536MB Sys Usage: 421MB Demoted: 0MB fps: 76.616669 Demoted: 0MB fps: 68.783340
+10:40:47:264 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:40:47:266 (00005652) > [Render] Failed to get GPU thermal info
+10:40:47:266 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:40:47:266 (00005652) > [Render] Working set: 3956MB Page file: 16725MB Video Budget: 11088MB Video Usage: 8805MB Sys Budget: 17536MB Sys Usage: 421MB Demoted: 0MB fps: 68.783340 Demoted: 0MB fps: 67.466667
+10:41:47:261 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:41:47:263 (00005652) > [Render] Failed to get GPU thermal info
+10:41:47:263 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:41:47:263 (00005652) > [Render] Working set: 3957MB Page file: 16641MB Video Budget: 11088MB Video Usage: 8743MB Sys Budget: 17536MB Sys Usage: 422MB Demoted: 0MB fps: 67.466667 Demoted: 0MB fps: 81.733337
+10:42:47:258 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:42:47:260 (00005652) > [Render] Failed to get GPU thermal info
+10:42:47:260 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:42:47:260 (00005652) > [Render] Working set: 3965MB Page file: 16752MB Video Budget: 11088MB Video Usage: 8841MB Sys Budget: 17536MB Sys Usage: 422MB Demoted: 0MB fps: 81.733337 Demoted: 0MB fps: 72.583336
+10:43:47:267 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:43:47:270 (00005652) > [Render] Failed to get GPU thermal info
+10:43:47:270 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:43:47:270 (00005652) > [Render] Working set: 3982MB Page file: 16685MB Video Budget: 11088MB Video Usage: 8789MB Sys Budget: 17536MB Sys Usage: 423MB Demoted: 0MB fps: 72.583336 Demoted: 0MB fps: 87.333336
+10:44:47:264 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:44:47:266 (00005652) > [Render] Failed to get GPU thermal info
+10:44:47:266 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:44:47:266 (00005652) > [Render] Working set: 4000MB Page file: 16940MB Video Budget: 11088MB Video Usage: 9003MB Sys Budget: 17536MB Sys Usage: 423MB Demoted: 0MB fps: 87.333336 Demoted: 0MB fps: 65.983337
+10:45:47:265 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:45:47:267 (00005652) > [Render] Failed to get GPU thermal info
+10:45:47:267 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:45:47:267 (00005652) > [Render] Working set: 4014MB Page file: 17166MB Video Budget: 11088MB Video Usage: 8889MB Sys Budget: 17536MB Sys Usage: 423MB Demoted: 0MB fps: 65.983337 Demoted: 0MB fps: 67.083336
+10:46:47:258 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:46:47:261 (00005652) > [Render] Failed to get GPU thermal info
+10:46:47:261 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:46:47:261 (00005652) > [Render] Working set: 4019MB Page file: 16898MB Video Budget: 11088MB Video Usage: 8838MB Sys Budget: 17536MB Sys Usage: 424MB Demoted: 0MB fps: 67.083336 Demoted: 0MB fps: 74.633339
+10:47:47:264 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:47:47:266 (00005652) > [Render] Failed to get GPU thermal info
+10:47:47:266 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:47:47:266 (00005652) > [Render] Working set: 4013MB Page file: 16833MB Video Budget: 11088MB Video Usage: 8784MB Sys Budget: 17536MB Sys Usage: 424MB Demoted: 0MB fps: 74.633339 Demoted: 0MB fps: 73.366669
+10:48:47:260 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:48:47:261 (00005652) > [Render] Failed to get GPU thermal info
+10:48:47:261 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:48:47:261 (00005652) > [Render] Working set: 4015MB Page file: 16800MB Video Budget: 11088MB Video Usage: 8787MB Sys Budget: 17536MB Sys Usage: 425MB Demoted: 0MB fps: 73.366669 Demoted: 0MB fps: 77.600006
+10:49:47:267 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:49:47:270 (00005652) > [Render] Failed to get GPU thermal info
+10:49:47:270 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:49:47:270 (00005652) > [Render] Working set: 4017MB Page file: 16720MB Video Budget: 11088MB Video Usage: 8736MB Sys Budget: 17536MB Sys Usage: 425MB Demoted: 0MB fps: 77.600006 Demoted: 0MB fps: 81.183334
+10:50:47:263 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:50:47:265 (00005652) > [Render] Failed to get GPU thermal info
+10:50:47:265 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:50:47:265 (00005652) > [Render] Working set: 4132MB Page file: 16847MB Video Budget: 11088MB Video Usage: 8823MB Sys Budget: 17536MB Sys Usage: 425MB Demoted: 0MB fps: 81.183334 Demoted: 0MB fps: 84.200005
+10:51:47:262 (00005652) > [Render] Quering NVAPI for GPU temperature
+10:51:47:264 (00005652) > [Render] Failed to get GPU thermal info
+10:51:47:264 (00005652) > [Render] Did not retrieve the GPU temperature of core but from: 0
+10:51:47:264 (00005652) > [Render] Working set: 4194MB Page file: 16833MB Video Budget: 11088MB Video Usage: 8769MB Sys Budget: 17536MB Sys Usage: 489MB Demoted: 0MB fps: 84.200005 Demoted: 0MB fps: 82.116669
+10:52:30:422 (00024448) > [NxApp] Destroying
+10:52:30:460 (00024448) > [DXGI] Destroyed swapchain.
+10:52:30:460 (00024448) > [SwapChain] Destroyed.
+10:52:30:460 (00024448) > [SwapChain] Released.
+10:52:30:462 (00024448) > [Render] Unloading NVAPI
+10:52:30:462 (00024448) > [Render] Done unloading NVAPI
+10:52:30:464 (00024448) > [DXGI] Destroyed swapchain.
+10:52:30:464 (00024448) > [DXGI] Released.
+--- NIXXES log closed ---
